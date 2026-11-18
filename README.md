@@ -16,8 +16,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
-## Contato
-[LinkedIn](https://linkedin.com/in/seu-perfil)
+
 
 <!--
 **Morph-pixel/Morph-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
