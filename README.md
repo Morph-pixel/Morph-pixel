@@ -6,7 +6,6 @@
 
 ## Sobre mim
 - 💻 Cursando Ciência da Computação
-- 🗄️ Estudando bancos de dados e SQL
 - 🔐 Interesse em cibersegurança e desenvolvimento fullstack
 - 🌎 Inglês fluente, espanhol intermediário
 
